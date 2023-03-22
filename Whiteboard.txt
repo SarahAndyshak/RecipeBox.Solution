@@ -1,3 +1,14 @@
+NOTE: in experimenting with adding roles on Wednesday: 
+- Controllers/AdminController
+- Controllers/RoleController
+- CustomTagHelpers directory and files
+- Models/RoleEdit
+- Models/RoleModification
+- Views/Role directory and files
+- Views/Shared/_ViewImports
+
+
+
 x Recipes: ingredients, instructions; equivalent of items
 x tags for categories
 (2 main models: Recipes and Tags, plus RecipeTag)
@@ -22,5 +33,3 @@ x Recipe has Instructions and Ingredients
 Stretch: 
 - figure out list for Recipe Details display
 - change rankings to star system
-
-**TUESDAY : did something happen to tags? can we see each other's tags or only our own?

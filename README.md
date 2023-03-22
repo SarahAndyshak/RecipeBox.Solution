@@ -90,7 +90,14 @@ OR
 
 ## Known Bugs
 
-* _No known bugs._
+* _No known bugs. However, the following commented out files were from a WIP attempting to authentication roles from a tutorial:_
+- Controllers/AdminController
+- Controllers/RoleController
+- CustomTagHelpers directory and files
+- Models/RoleEdit
+- Models/RoleModification
+- Views/Role directory and files
+- Views/Shared/_ViewImports
 
 * _Please reach out with any questions or concerns_
 
